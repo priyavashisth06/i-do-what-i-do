@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
