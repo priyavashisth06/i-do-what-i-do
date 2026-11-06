@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2747-count-zero-request-servers](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
