@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -175,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/priyavashisth06/i-do-what-i-do/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
